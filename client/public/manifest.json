@@ -1,0 +1,10 @@
+{
+  "short_name": "Ishika Portfolio",
+  "name": "Ishika's Portfolio Website",
+  "description": "Professional portfolio showcasing Ishika's work, skills, and case studies",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#d97706",
+  "background_color": "#ffffff"
+}
